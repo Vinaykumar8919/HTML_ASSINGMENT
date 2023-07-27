@@ -1,0 +1,18 @@
+
+  .gallery {
+    display: flex;
+  }
+  
+
+  
+img{
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+
+  }
+  .thumbnail:hover {
+    transform: scale(1.2);
+    transition: transform 1s ease;
+  }
+  
